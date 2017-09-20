@@ -1,6 +1,3 @@
-// Светодиод подлкючен к 5 пину
-// Датчик температуры ds18b20 к 2 пину
-
 #include <ESP8266WiFi.h>
 #include <PubSubClient.h>
 
